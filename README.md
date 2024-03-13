@@ -12,6 +12,7 @@ This project is a Frontend Mentor challenge project that utilizes HTML, Tailwind
 ![After confirming the todo edit](public/after_edit.png)
 
 <br>
+
 ## View Site
 
 Link: https://deepgit-todo-list.netlify.app/
