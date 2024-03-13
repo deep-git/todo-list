@@ -11,10 +11,10 @@ This project is a Frontend Mentor challenge project that utilizes HTML, Tailwind
 **When confirming the todo edit, the content of the initial todo will be changed:**<br><br>
 ![After confirming the todo edit](public/after_edit.png)
 
-<br><br>
+<br>
 ## View Site
 
-Link: https://deep-git.github.io/job-listings/
+Link: https://deepgit-todo-list.netlify.app/
 
 ## Technologies Utilized
 
