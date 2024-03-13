@@ -2,7 +2,6 @@
   "name": "todo-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://deep-git.github.io/todo-list/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",

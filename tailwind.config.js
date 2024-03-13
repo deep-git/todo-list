@@ -36,11 +36,11 @@ export default {
         todo_remove_hover: "hsla(var(--todo-remove-hover))"
       },
       backgroundImage: {
-        light_mobile: "url('/todo-list/bg-mobile-light.jpg')",
-        dark_mobile: "url('/todo-list/bg-mobile-dark.jpg')",
-        light_desktop: "url('/todo-list/bg-desktop-light.jpg')",
-        dark_desktop: "url('/todo-list/bg-desktop-dark.jpg')",
-        task_check: "url('/todo-list/icon-check.svg')"
+        light_mobile: "url('/bg-mobile-light.jpg')",
+        dark_mobile: "url('/bg-mobile-dark.jpg')",
+        light_desktop: "url('/bg-desktop-light.jpg')",
+        dark_desktop: "url('/bg-desktop-dark.jpg')",
+        task_check: "url('/icon-check.svg')"
       },
     },
   },

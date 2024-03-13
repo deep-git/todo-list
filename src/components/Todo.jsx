@@ -84,7 +84,7 @@ const Todo = ({todo, index}) => {
             </div>
         </div>
         <div onClick={() => handleRemoveTodo()} className={`${hoverRemove === true ? 'md:flex' : 'md:hidden'} w-7 h-7 flex justify-center items-center cursor-pointer rounded-full`}>
-            <img src="/todo-list/icon-cross.svg" alt="Delete" className="w-5 h-5"/>
+            <img src="icon-cross.svg" alt="Delete" className="w-5 h-5"/>
         </div>
     </div>
   )

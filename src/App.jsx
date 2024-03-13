@@ -70,7 +70,7 @@ function App() {
         <div className="flex flex-col md:w-[550px] md:px-6 md:ml-auto md:mr-auto">
           <nav className="flex justify-between items-center">
             <h1 className="text-2xl md:text-4xl uppercase text-white font-[700] tracking-[10px] cursor-pointer">Todo</h1>
-            <img src={`${lightMode === true ? '/todo-list/icon-moon.svg' : '/todo-list/icon-sun.svg'}`} alt={`${lightMode === true ? 'Dark Mode Moon' : 'Light Mode Sun'}`} onClick={() => handleThemeMode()} className="object-contain cursor-pointer w-auto"/>
+            <img src={`${lightMode === true ? 'icon-moon.svg' : 'icon-sun.svg'}`} alt={`${lightMode === true ? 'Dark Mode Moon' : 'Light Mode Sun'}`} onClick={() => handleThemeMode()} className="object-contain cursor-pointer w-auto"/>
           </nav>
 
           <form onKeyDown={(e) => enterTodo(e)} id="form_todos" className="flex mt-7 md:mt-9 md:mb-5 w-full bg-todo_item_background px-6 py-2 rounded-md items-center">
